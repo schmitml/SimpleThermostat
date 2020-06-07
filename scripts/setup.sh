@@ -1,1 +1,1 @@
-python pip3 install adafruit-circuitpython-si7021
+python pip install adafruit-circuitpython-si7021
